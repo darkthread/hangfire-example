@@ -1,1 +1,1 @@
-# hangfire-example
+﻿# [ASP.NET Core Minimal API Hangfire 設定範例說明](https://blog.darkthread.net/blog/hangfire-example)
